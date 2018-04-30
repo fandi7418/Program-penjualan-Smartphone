@@ -7,3 +7,5 @@ print ("*NIM  : 21120117120032           *")
 print ("----------------------------------")
 
 from input import masukan
+
+input("Enter to exit")
