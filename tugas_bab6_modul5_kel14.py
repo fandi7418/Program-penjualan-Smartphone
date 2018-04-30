@@ -7,3 +7,5 @@ print ("*NIM  : 21120117120032           *")
 print ("----------------------------------")
 
 from input import masukan #untuk memanggil kelas
+
+#untuk menampilkan running di anaconda 3 dengan menginput code *input("Enter to exit")*
