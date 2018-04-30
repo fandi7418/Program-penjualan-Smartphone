@@ -6,4 +6,4 @@ print ("*NAMA : Ayu Novita Mei Ulawati   *")
 print ("*NIM  : 21120117120032           *")
 print ("----------------------------------")
 
-from input import masukan
+from input import masukan #untuk memanggil kelas
